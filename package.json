@@ -1,0 +1,14 @@
+{
+  "name": "life-360",
+  "version": "1.0.0",
+  "description": "Life 360 Unofficial API in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
